@@ -1,2 +1,2 @@
 # mspFiles
-msp databases for online access with SMILES codes added
+msp databases with SMILES codes added
